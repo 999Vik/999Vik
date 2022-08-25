@@ -4,7 +4,7 @@
 
 I am currently in my First Year of Uni at The University of Toronto
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
+Skills: VUE / REACT / JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on My Personal Portfolio 
 - 🌱 I’m currently learning Data Structures 
